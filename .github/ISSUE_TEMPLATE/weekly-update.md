@@ -1,35 +1,36 @@
 ---
 name: Weekly update
 about: Short weekly research progress update
-title: "[Weekly] YYYY-MM-DD — "
+title: "[Weekly update] YYYY-MM-DD — "
 labels: ""
 assignees: ""
 ---
 
 ## Main goal
 
-<!-- What was the main objective for this week? Keep it short. -->
+<!-- What was the main objective for this week in short. -->
 
-## Results
 
-<!-- What concrete results did you obtain? Link Issues, commits, Pull Requests, figures, notes, datasets, or external results when useful. -->
+## What I did
 
-- 
-
-## Findings / decisions
-
-<!-- What did you learn or decide? Include negative results if they affect the research direction. -->
+<!-- What did you actually work on? Link Issues, code, plots or notes when useful. -->
 
 - 
 
-## Blockers / questions for the Supervisor
+## What I learned
 
-<!-- What currently prevents progress, or what requires a decision? Write "None" if there is nothing to discuss. -->
+<!-- What is clearer now than it was one week ago? Include unexpected or negative results when relevant. -->
+
+- 
+
+## Questions / problems
+
+<!-- Is anything unclear, blocking progress, or worth discussing with your Supervisor? -->
 
 - None
 
 ## Next
 
-<!-- What are the 1–3 priorities for next week? Link the corresponding Issues when possible. -->
+<!-- What are the 1–3 priorities for next week? -->
 
-- 
+-
