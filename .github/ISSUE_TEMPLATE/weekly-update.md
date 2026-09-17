@@ -1,7 +1,7 @@
 ---
 name: Weekly update
 about: Short weekly research progress update
- title: "[Weekly] YYYY-MM-DD — "
+title: "[Weekly] YYYY-MM-DD — "
 labels: ""
 assignees: ""
 ---
