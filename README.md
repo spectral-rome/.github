@@ -4,7 +4,7 @@ This public repository contains only GitHub community files that are appropriate
 
 Thesis-specific Issue templates are deliberately **not** defined as organization-wide defaults. Applying them to every repository would also expose Weekly Update and Research Question templates in shared software repositories, where they do not belong.
 
-Use [`spectral-rome/research-tutorial`](https://github.com/spectral-rome/research-tutorial) as the canonical research-activity template and workflow.
+Use [`spectral-rome/research-tutorial`](https://github.com/spectral-rome/research-tutorial) for the management model and Supervisor setup procedure. Copy only its `student-package/` contents into a student's research-activity repository.
 
 Repository roles are configured locally:
 
